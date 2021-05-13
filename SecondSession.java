@@ -9,9 +9,6 @@ public class SecondSession {
         int b=5;
         
 
-
-
-
 //        //Arithmetic --> + ,- ,*, / , %
 //
 //        int a=12;

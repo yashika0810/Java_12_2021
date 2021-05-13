@@ -7,6 +7,8 @@ public class SecondSession {
         System.out.println("Helloo Testing");
         int a=4;
         int b=5;
+        int result=a+b
+        System.out.print(result);
         
 
 

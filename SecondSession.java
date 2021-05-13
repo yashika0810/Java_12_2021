@@ -5,6 +5,9 @@ import java.util.*;
 public class SecondSession {
     public static void main(String[] args) {
         System.out.println("Helloo Testing");
+        int a=4;
+        int b=5;
+        
 
 
 

@@ -9,6 +9,7 @@ public class SecondSession {
         int b=500;
         int result=a+b;
         System.out.print(result);
+        System.out.println("Adding a new line");
 
 //        //Arithmetic --> + ,- ,*, / , %
 //

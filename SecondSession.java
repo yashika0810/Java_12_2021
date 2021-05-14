@@ -5,8 +5,8 @@ import java.util.*;
 public class SecondSession {
     public static void main(String[] args) {
         System.out.println("Helloo Testing");
-        int a=400;
-        int b=500;
+        int a=100;
+        int b=200;
         int result=a+b;
         System.out.print(result);
         System.out.println("Adding a new line");
